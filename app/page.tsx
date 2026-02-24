@@ -80,7 +80,7 @@ export default function Home() {
 
           <div className="flex justify-center">
             <img
-              src="/profile.jpg"
+              src="/profile.JPG"
               alt="Aakanksha Rajput"
               className="rounded-2xl shadow-2xl w-80 object-cover"
             />
